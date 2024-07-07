@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   height: 120vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/heroimg.jpg")  center;
   background-size: cover;
 }
 #hero .container {
@@ -620,7 +620,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/ceo.jpeg") center center no-repeat;
+  background: url("../img/ceo.jpg") center center no-repeat;
   border-radius: 20px;
   box-shadow: 0px 2px 15px rgba(39, 22, 191, 0.1);
   margin: 0px;
